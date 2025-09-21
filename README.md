@@ -14,11 +14,11 @@ Vector indexing with Google Gemini embeddings (text-embedding-004)
 
 Qdrant vector DB
 
-Chat inference with Gemini 1.5 Flash (fast, cost-effective)
+Chat inference with Gemini 1.5 Flash 
 
 Clean separation of indexing vs query
 
-Safe TypeScript error handling (no any in catches)
+Safe TypeScript error handling 
 
 Basic retry/backoff for 429 rate limits
 
