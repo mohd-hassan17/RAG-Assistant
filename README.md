@@ -1,6 +1,6 @@
 ## RAG Chat — PDFs, URLs, and Text
 
-A Retrieval-Augmented Generation (RAG) app that lets users upload PDFs, add URLs, or paste text, indexes everything into Qdrant, and then lets them chat with an AI that answers strictly from the indexed content.
+# A Retrieval-Augmented Generation (RAG) app that lets users upload PDFs, add URLs, or paste text, indexes everything into Qdrant, and then lets them chat with an AI that answers strictly from the indexed content.
 
 ## 🚀 Demo
 
